@@ -8,7 +8,7 @@ Repository of code for OOP
 
 #### Image:
 
-<img src="https://imgbox.com/EBW0aOnn" width=200>
+<img src="[URL=https://imgbox.com/EBW0aOnn][IMG]https://images2.imgbox.com/b5/3d/EBW0aOnn_o.jpg[/IMG][/URL]" width=200>
 
 #### Avatar:
 
