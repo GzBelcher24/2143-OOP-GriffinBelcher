@@ -12,4 +12,4 @@ Repository of code for OOP
 
 #### Avatar:
 
-<img src="https://images2.imgbox.com/ae/bd/tERTAGTL_o.png" width="75">
+<img src =https://thumbs2.imgbox.com/99/2b/khGMMaAR_t.jpg" width="75">
