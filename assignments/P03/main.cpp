@@ -1,11 +1,4 @@
-// main.cpp — Program 3 driver
-//
-// Parses command-line arguments, builds a filter pipeline in the order
-// the flags were given, applies the pipeline to the input image, and
-// saves the result.
-//
-// You should not need to change this file.
-// All filter logic belongs in the individual filter classes.
+
 
 #include "Args.h"
 #include "Image.h"
@@ -18,6 +11,7 @@
 #include "Rotate.h"
 
 #include <iostream>
+
 
 int main(int argc, char* argv[]) {
     // --- parse and validate command-line arguments ---
